@@ -106,11 +106,11 @@ Jupyter Notebook (.ipynb) and Python scripts show the exact steps for acquisitio
 
 
 ## Workload Distribution  
-- **Mishael** – Primary coder  
-- **Eric** – Presentation development and analysis  
-- **Lohitha** – Presentation, documentation, and analysis support 
-- **Ahmed** – Assisted in data acquisition process and data interpretation  
- 
+- **Mishael** – Primary coder, supported in documentation and analysis 
+- **Eric** – Presentation, documentation, analysis and supported in code development
+- **Lohitha** – Presentation, documentation, analysis and supported in code development 
+- **Ahmed** – Gave input during Project Proposal and assisted in presentation development
+  
 
 ## How to Run  
         If running on Google colab uncomment this section
